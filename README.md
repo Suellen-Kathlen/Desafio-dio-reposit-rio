@@ -23,6 +23,11 @@ Aprendendo a usar Git/Github
 <li>git config --global user.email "Suellen@hotmail.com"</li> 
 <li>git config --global core.editor</li>
 
+<h3>Esses comandos servem para:</h3>
+<li>Adicionar o nome</li> 
+<li>Adicionar o e-email</li> 
+<li>Adicionar o editor</li> 
+
 <h3>Para ler as informações adicionadas:</h3>
 <li>git config user.name</li> 
 <li>git config user.email</li> 
