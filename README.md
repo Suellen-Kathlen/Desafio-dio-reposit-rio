@@ -1,5 +1,4 @@
-# Desafio-dio-repositório
-Aprendendo a usar Git/Github
+# Aprendendo a usar Git/Github
 
 <h2>COMANDOS PARA USAR NO GIT:</h2>
 <li>cd</li> 
