@@ -4,7 +4,7 @@
 <li>cd</li> 
 <li>dir</li> 
 <li>cd ..</li>
-<li>gir init</li> 
+<li>git init</li> 
 <li>mkdir</li> 
 <li>rmdir</li> 
 
